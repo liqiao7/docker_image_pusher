@@ -1,1 +1,2 @@
 mysql:8.0.37
+minio/minio:latest

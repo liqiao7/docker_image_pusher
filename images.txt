@@ -1,4 +1,1 @@
-mysql:8.0.37
-minio/minio:latest
-jenkins/jenkins:lts-jdk11
 moby/buildkit:buildx-stable-1
